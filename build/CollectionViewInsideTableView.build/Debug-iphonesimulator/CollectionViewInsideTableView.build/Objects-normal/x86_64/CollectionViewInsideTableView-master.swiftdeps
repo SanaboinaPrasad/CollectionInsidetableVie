@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "591faf823d3308078ba226bd2a8c9116"
+build_time: [1540905078, 444734000]
+inputs:
+  "/Users/sriramprasad/Dev/CollectionViewInsideTableView/CollectionViewInsideTableView/cCollectionViewCell.swift": [1540830910, 0]
+  "/Users/sriramprasad/Dev/CollectionViewInsideTableView/CollectionViewInsideTableView/TableViewCell.swift": [1540832199, 0]
+  "/Users/sriramprasad/Dev/CollectionViewInsideTableView/CollectionViewInsideTableView/ViewController.swift": [1540905078, 0]
+  "/Users/sriramprasad/Dev/CollectionViewInsideTableView/CollectionViewInsideTableView/AppDelegate.swift": [1540830733, 0]
